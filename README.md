@@ -8,13 +8,14 @@ Overlay of upstream alsa-ucm-conf
 # Upstreaming status
 
 ## Done
-- acp3xalc5682m98 (This one may need changes?)
+- acp3xalc5682m98
 - acpd7219m98357
-
-## WIP
 - acp3xalc5682101
 - mt8183_da7219_r
 - mt8183_mt6358_t
+
+## WIP
+- None currently
 
 ## Exists in upsteam but is missing features
 - sof-glkda7219ma (DMIC Split)
